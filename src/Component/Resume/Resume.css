@@ -13,12 +13,7 @@
   border: 1px solid #e3e9ed;
   background-color: #e3e9ed;
 }
-.Resume .rate .btn_shadow {
-  color: #ff014f;
-  padding: 15px 30px;
-  font-weight: bold;
-  transition: 0.5s;
-}
+
 .Resume p {
   font-size: 18px;
   transition: 0.5s;
@@ -49,7 +44,7 @@
   position: absolute;
   top: 16%;
   left: 0;
-  height: 118vh;
+  height: 100vh;
   width: 5px;
   background: #d9dee2;
   z-index: -2;
@@ -80,15 +75,15 @@
   background: #ff3a75;
 }
 
-.home-btn {
+.homebtn {
   transition: 0.3s all ease;
   cursor: pointer;
   height: fit-content;
   color: #ff014f;
-  margin-top: 20px;
+  margin-top: 70px;
 }
 
-.home-btn a {
+.homebtn a {
   padding: 18px 25px;
   margin-top: 20px;
   z-index: 1000;
@@ -99,7 +94,7 @@
   border-radius: 6px;
 }
 
-.home-btn a:hover {
+.homebtn a:hover {
   background: #312d2e;
   color: white;
 }

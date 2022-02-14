@@ -10,7 +10,7 @@ const Resume = () => {
         <div className="container top">
           <div className="heading text-center">
             <h1>My Resume</h1>
-            <button className="home-btn">
+            <button className="homebtn">
               <a rel="noreferrer" target="_blank" href="./image/CV.pdf">
                 My CV
               </a>
