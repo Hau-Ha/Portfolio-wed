@@ -39,7 +39,7 @@ const Contact = () => {
         <div className="container top">
           <div className="heading text-center">
             <h4>CONTACT</h4>
-            <h1>Contact With Me</h1>
+            <h1>Contact Me</h1>
           </div>
 
           <div className="content d_flex">
@@ -52,8 +52,8 @@ const Contact = () => {
                   <h1>Hau Ha</h1>
                   <p>Font-end Developer</p>
                   <p>
-                    I am available for freelance work. Connect with me via and
-                    call in to my account.
+                    I am available for Front-End development work. Connect with
+                    me via my social media accounts , email or phone number.
                   </p>
                   <br />
                   <p>Phone: +358452129739</p>
@@ -61,7 +61,7 @@ const Contact = () => {
                     Email: haduyhaudev@gmail.com
                   </a>
                   <br />
-                  <span>FIND WITH ME</span>
+                  <span>FIND ME</span>
                   <div className="button f_flex">
                     <button className="btn_shadow">
                       <a href="https://www.facebook.com/kamikaze.ha">
@@ -74,7 +74,7 @@ const Contact = () => {
                       </a>
                     </button>
                     <button className="btn_shadow">
-                      <a href="https://github.com/Hau-Ha">
+                      <a href="https://www.linkedin.com/in/hau-ha-938977231/">
                         <i class="fab fa-linkedin-in"></i>
                       </a>
                     </button>

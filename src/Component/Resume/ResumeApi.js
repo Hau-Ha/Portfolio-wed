@@ -12,7 +12,7 @@ const ResumeApi = [
     category: "experience",
     year: "KT Advertising and Events company, VIETNAM (2/2013 - 12/2014) ",
     title: "Production manager",
-    desc: "Organization and management of the group such as lighting, stage, post-production … to create a beautifu and monumental event",
+    desc: "Organization and management of the group such as lighting, stage, post-production … to create a beautiful and monumental event",
   },
   {
     id: 5,

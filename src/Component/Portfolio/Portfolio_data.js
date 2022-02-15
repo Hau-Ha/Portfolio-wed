@@ -67,7 +67,7 @@ const Portfolio_data = [
     image: "./image/portfolio-11.jpg",
     image1: "./image/portfolio-11.jpg",
     github: "https://github.com/Hau-Ha/Portfolio-wed",
-    demo: "https://github.com/Hau-Ha/FilmChill-app",
+    demo: "https://hauhadev.herokuapp.com/",
     info: " It's a project to introduce myself and what I've been doing in the past    ",
     tech: " #React",
   },

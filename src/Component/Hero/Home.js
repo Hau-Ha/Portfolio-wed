@@ -44,7 +44,7 @@ const Home = () => {
               future-oriented into a full-stack developer. I am always eager to
               learn new skills in order to increase the quality of my work. I am
               looking forward to a chance to work in the profession and
-              contribute to the development of my future company.
+              contribute to the development of my future employer.
             </p>
 
             <div className="hero_btn d_flex">
@@ -62,7 +62,7 @@ const Home = () => {
                     </a>
                   </button>
                   <button className="btn_shadow">
-                    <a href="https://github.com/Hau-Ha">
+                    <a href="https://www.linkedin.com/in/hau-ha-938977231/">
                       <i class="fab fa-linkedin-in"></i>
                     </a>
                   </button>
