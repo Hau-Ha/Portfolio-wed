@@ -19,7 +19,7 @@ const ResumeApi = [
     category: "experience",
     year: "NEKOPARTY NFT , VIETNAM (06/2021 - 12/2021) ",
     title: "Front-end Web Development Internship",
-    desc: "Worked with web front-end development use ReacJS,Redux and Redux toolkit .Converting designs from Photoshop to HTML, CSS and JS.Evaluating alternative implementation options",
+    desc: "Worked with web front-end development use ReacJS,Redux toolkit .Converting designs from Photoshop to HTML, CSS and JS.Evaluating alternative implementation options",
   },
 ];
 

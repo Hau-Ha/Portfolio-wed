@@ -40,9 +40,8 @@ const Home = () => {
             </h2>
 
             <p>
-              I am a passionate front-end developer, full of enthusiasm and
-              future-oriented into a full-stack developer. I am always eager to
-              learn new skills in order to increase the quality of my work. I am
+              I am a passionate front-end developer. I am always eager to learn
+              new skills in order to increase the quality of my work. I am
               looking forward to a chance to work in the profession and
               contribute to the development of my future employer.
             </p>
