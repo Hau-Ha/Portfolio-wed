@@ -31,7 +31,11 @@ const Home = () => {
             <h2>
               <span>
                 <Typewriter
-                  words={[" Front-End Developer.", " Software developer."]}
+                  words={[
+                    " Front-End Developer.",
+                    " Software developer.",
+                    " Full-stack developer.",
+                  ]}
                   loop
                   cursor
                   cursorStyle="|"
@@ -43,7 +47,7 @@ const Home = () => {
             </h2>
 
             <p>
-              I am a passionate front-end developer. I am always eager to learn
+              I am a passionate Full-stack developer. I am always eager to learn
               new skills in order to increase the quality of my work. I am
               looking forward to a chance to work in the profession and
               contribute to the development of my future employer.
