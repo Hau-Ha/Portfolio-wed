@@ -56,7 +56,7 @@ const Portfolio_data = [
     image1: "./image/portfolio-07.jpg",
     github: "https://github.com/Hau-Ha/job-prod",
     demo: "http://34.124.189.18:8083/login",
-    info: "Full-stack project. The software allows users to create an account, create, read, update, and delete (CRUD) job and control it.  ",
+    info: "Full-stack project. The software allows users to create an account, create, read, update, and delete (CRUD) job and control it. ACC-TEST : ID: test@test.com pass:Qaz195200 ",
     tech: " #React  #Axios #REST API #Nodejs #JWT #Mongodb",
   },
   {
