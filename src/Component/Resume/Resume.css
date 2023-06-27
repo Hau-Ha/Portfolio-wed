@@ -4,6 +4,7 @@
 .Resume .content {
   max-width: 85%;
   margin: auto;
+  position: relative;
 }
 .Resume .box {
   padding: 40px;
@@ -42,9 +43,9 @@
 .Resume .left::after {
   content: "";
   position: absolute;
-  top: 16%;
+  top: 8%;
   left: 0;
-  height: 100vh;
+  height: 80%; 
   width: 5px;
   background: #d9dee2;
   z-index: -2;
@@ -103,7 +104,7 @@
     flex-direction: column;
   }
   .Resume .left::after {
-    top: 14%;
-    height: 105vh;
+    top: 11%;
+    height: 80%;
   }
 }
