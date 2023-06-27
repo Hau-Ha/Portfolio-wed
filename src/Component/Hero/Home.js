@@ -15,6 +15,7 @@ import skill11 from "../pic/skill11.png";
 import skill12 from "../pic/skill12.png";
 import skill13 from "../pic/skill13.png";
 import skill14 from "../pic/skill14.png";
+import skill15 from "../pic/skill15.png";
 
 import { Typewriter } from "react-simple-typewriter";
 
@@ -117,6 +118,9 @@ const Home = () => {
                 </button>
                 <button className="btn_shadow cursor-default">
                   <img src={skill14} alt="" />
+                </button>
+                <button className="btn_shadow cursor-default">
+                  <img src={skill15} alt="" />
                 </button>
               </div>
             </div>
