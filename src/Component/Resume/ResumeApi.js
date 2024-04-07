@@ -30,19 +30,12 @@ const ResumeApi = [
   {
     id: 5,
     category: "experience",
-    year: "Power international as Oy, FINLAND (4/2023 - present)",
-    title: "Back-end Developer trainee",
-    desc: "•  Focused on the design, development, and maintenance of software applications using C#.\n• • Addressed bugs and developed new features for the Power store across the Nordic region.\n•  Directly collaborated on the e-commerce website, contributing to various aspects of online retailing."
-  },
-  {
-    id: 6,
-    category: "experience",
-    year: "Integrify, HELSINKI, FINLAND (11/2022 - 1/2023)",
+    year: "Integrify, HELSINKI, FINLAND (11/2022 - 4/2023)",
     title: "Full-stack developer",
     desc: "Focusing on Frontend development with TypeScript, React.js, and Redux in addition to HTML, CSS, and SASS.\n\n• Emphasis on the Backend with C#, ASP.NET, Databases with MongoDB and SQL Server, and Testing through Unit Testing.\n\n• DevOps practices with CLI Scripting, Docker, and GitHub CI/CD.\n\n• Cloud computing with Microsoft Azure",
   },
   {
-    id: 7,
+    id: 5,
     category: "experience",
     year: "Commu App, TAMPERE, FINLAND (8/2022 - 12/2022)",
     title: "Mobile developer trainee",
