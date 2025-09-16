@@ -9,21 +9,21 @@ const ResumeApi = [
   {
     id: 2,
     category: "education",
-    year: "Helsinki Business College,HELSINKI, FINLAND   (2023)",
-    title: "Full Stack Web Developer program",
-    desc: "VOCATIONAL DEGREE IN INFORMATION & COMMUNICATIONS TECHNOLOGY",
-  },
-  {
-    id: 3,
-    category: "education",
     year: "Tampere University Applied of Science (TAMK), TAMPERE, FINLAND (2015-2020)",
     title: "Energy And Environment Engineer",
     desc: "Bachelor of Engineer in Energy and Environment Engineer. Major in Circular Economy",
   },
   {
+    id: 3,
+    category: "experience",
+    year: "AEM Afore oy ,Turku ,Finland (7/2025 - Present)",
+    title: "Software developer",
+    desc: "• Built React (TypeScript) components integrated with .NET Core APIs, improving UX and enabling fasteriteration cyles.\n• Modernization of a large ASP.NET MVC 4.8 platform to ASP.NET Core 9, introducing DependencyInjection, middleware rouFng, authentication, and distributed caching.\n• Refactored data access layer to Enpty Framework Core,build maintainability and cutting query complexity.\n• Drove customer-centric improvements via weekly demos and cross-team collaboration, ensuring zero downtime during migration."
+  },
+  {
     id: 4,
     category: "experience",
-    year: "AEM Afore oy ,Turku ,Finland (4/2023 - present)",
+    year: "AEM Afore oy ,Turku ,Finland (4/2023 - 5/2024)",
     title: "Software developer",
     desc: "• Designing, developing, and maintaining software applications using C# and VB .NET.\n• Collaborating with cross-functional teams to understand project requirements and deliver robust solutions.\n• Utilizing XAML to create intuitive and visually appealing user interfaces.\n• Developing GUI components and implementing responsive designs for enhanced user experience.\n• Conducting thorough testing and debugging to ensure high-quality code.\n• Conducting thorough testing and debugging to ensure high-quality code."
   },
